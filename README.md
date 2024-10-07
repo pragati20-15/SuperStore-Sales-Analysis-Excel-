@@ -1,1 +1,1 @@
-# SuperStore-Sales-Analysis-Excel-
+Developed a comprehensive analysis of Superstore's performance using simple charts and key metrics to visualize sales, profits, and customer insights. The project focuses on breaking down performance by region and category to provide actionable insights for business decision-making."
